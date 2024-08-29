@@ -79,7 +79,7 @@ git clone https://github.com/puni-ram48/Heart-Attack-Classification.git
   - **F1-Score:** The harmonic mean of precision and recall, providing a balanced measure of the model’s performance in terms of both precision and recall.
 
 - **Best Model:**
-  - **K-Nearest Neighbors (KNN)** was identified as the best model based on its high ROC-AUC score of 0.95 and accuracy of 0.89. This indicates that KNN is particularly effective at detecting heart attacks, making it the most suitable model for this project.
+  - **K-Nearest Neighbors (KNN)** was identified as the best model based on its high **ROC-AUC** score of **0.95** and **accuracy** of **0.89**. This indicates that KNN is particularly effective at detecting heart attacks, making it the most suitable model for this project.
 
 ## Contributing
 We welcome contributions to this project! If you would like to contribute, please follow these steps:
